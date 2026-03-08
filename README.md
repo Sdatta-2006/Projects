@@ -1,2 +1,2 @@
 # Projects
-Collection of coding projects (in Python)
+Collection of coding projects (in languages: Python, Java)
